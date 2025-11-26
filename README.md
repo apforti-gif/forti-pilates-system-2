@@ -18,6 +18,18 @@ O **Forti Pilates System** é um sistema leve desenvolvido em Node.js para auxil
 
 Ideal para professores de Pilates que desejam manter um controle simples e funcional.
 
+app.js
+utils.js
+alunos.json
+README.md      (esse você já colocou)
+treinos/       (pasta)
+   ├── treinoA.json
+   ├── treinoB.json
+   ├── treinoC.json
+   └── treinoD.json
+package.json
+
+
 ---
 
 ## 📂 Estrutura do Projeto
